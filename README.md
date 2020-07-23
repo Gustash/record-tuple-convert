@@ -1,5 +1,7 @@
 # Record and Tuple Converter
 
+[![npm version](https://badge.fury.io/js/record-tuple-convert.svg)](https://www.npmjs.com/package/record-tuple-convert)
+
 ### Recursively convert JS objects and arrays to [Records and Tuples](https://github.com/tc39/proposal-record-tuple)
 
 ## Disclaimer
