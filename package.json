@@ -1,6 +1,6 @@
 {
   "name": "record-tuple-convert",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily convert deep Objects and Arrays to Records and Tuples.",
   "main": "index.js",
   "scripts": {
